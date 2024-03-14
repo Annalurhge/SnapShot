@@ -1,0 +1,6 @@
+Full Screen, 0, 0, 1366, 768
+Google Meet, 55, 170, 860, 480
+Zoom, 11, 75, 1017, 598
+MS Teams, 3, 240, 1035, 482
+Youtube, 115, 180, 730, 400
+Facebook Live, 43, 100, 883, 623
